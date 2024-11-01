@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Ola, me chamo yago e tenho 18 anos, gosto de criar soluções para empresas.</p>
+<p align="left">Ola, me chamo yago e tenho 18 anos, gosto de criar aplicações desktop.</p>
 
 ###
 
