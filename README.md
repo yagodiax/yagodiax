@@ -10,12 +10,12 @@
 
 ###
 
-<p align="left">✨ Codando a 1 Ano<br>📚 Aprendendo JS<br>🎯 Experiente na Criação de Aplicativos em Pascal</p>
+<p align="left">✨ Codando a 1 Ano<br>📚 Estudando JS<br>🎯 Experiente na Criação de Aplicativos em Pascal</p>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/yago-dias-35a0932b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV7Xce0iPTamodfKVpP4lgQ%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/yago-dias-35a0932b8/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/yago_diax/" target="_blank">
@@ -25,12 +25,16 @@
 
 ###
 
-<h2 align="left">Linguagens</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -40,8 +44,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagodiax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=yagodiax&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagodiax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
