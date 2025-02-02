@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Codando a 1 Ano<br>📚 Estudando JS<br>🎯 Experiente na Criação de Aplicativos em Pascal</p>
+<p align="left">✨ Codando a 1 Ano<br>📚 Sempre em Busca de Evoluir<br>🎯 Experiente na Criação de Aplicativos em Pascal</p>
 
 ###
 
