@@ -39,8 +39,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagodiax&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagodiax&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
