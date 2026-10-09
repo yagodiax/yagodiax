@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, meu nome é Yago, tenho 18 anos e sou apaixonado por desenvolver aplicações desktop.</p>
+<p align="left">Olá, meu nome é Yago, e eu faço programa.</p>
 
 ###
 
