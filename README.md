@@ -17,7 +17,7 @@
 Sou entusiasta de tecnologia e desenvolvimento de software, com interesse em criar aplicações e soluções que facilitem processos e resolvam problemas do dia a dia.
 
 - 💻 Interesse em desenvolvimento Full-Stack e criação de aplicações.
-- 🚀 Desenvolvo projetos próprios utilizando diferentes linguagens e tecnologias.
+- 🚀 Desenvolvo projetos próprios e soluções para empresas.
 - 🌐 Estudando redes de computadores, protocolos e infraestrutura de comunicação.
 - 📚 Sempre aprendendo novas tecnologias e aprimorando meus conhecimentos.
 
@@ -36,6 +36,8 @@ Sou entusiasta de tecnologia e desenvolvimento de software, com interesse em cri
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -61,23 +63,36 @@ Sou entusiasta de tecnologia e desenvolvimento de software, com interesse em cri
 
 ## 🚀 Projetos em destaque
 
-### Chromebook Manager
+### SEICE Manager
 
-Sistema web para gerenciamento de equipamentos, desenvolvido para centralizar informações, inventário e controle de manutenção.
+Sistema web para gerenciamento de equipamentos de TI em ambiente escolar, com inventário, acompanhamento de manutenções, histórico de reparos e relatórios de gastos. Desenvolvido para atender diferentes unidades escolares.
 
-**Tecnologias:** Next.js · React · TypeScript · Tailwind CSS · TiDB
+**Tecnologias:** Next.js · React · TypeScript · Tailwind CSS · MySQL/TiDB · Vercel
 
-<a href="https://github.com/yagodiax/chromebook-manager">
+<a href="https://github.com/Orizon-Solucoes/seice-manager">
   <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-### Gerador de Código de Barras
+### Website Orizon Soluções
 
-Aplicação desktop para cadastro de produtos, geração de códigos de barras e impressão de etiquetas.
+Website institucional desenvolvido para apresentar a Orizon Soluções, seus serviços e soluções em tecnologia.
 
-**Tecnologias:** Python · SQLite · ReportLab · Pillow
+**Tecnologias:** Next.js · React · TypeScript · Tailwind CSS
 
-<a href="https://github.com/yagodiax/gerador-codigo-barras">
+<a href="https://github.com/Orizon-Solucoes/orizon-website">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://orizonsolucoes.vercel.app/">
+  <img src="https://img.shields.io/badge/Acessar%20Site-1677FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+### Gestão Oliveira
+
+Aplicação desktop para gerenciamento comercial, reunindo vendas, controle de estoque e operações de caixa em uma única solução.
+
+**Tecnologias:** Electron · React · TypeScript · Vite
+
+<a href="https://github.com/Orizon-Solucoes/gestao-oliveira">
   <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
