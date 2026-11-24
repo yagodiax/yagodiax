@@ -73,7 +73,7 @@ Sistema web para gerenciamento de equipamentos de TI em ambiente escolar, com in
   <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-### Website Orizon Soluções
+### Orizon Soluções
 
 Website institucional desenvolvido para apresentar a Orizon Soluções, seus serviços e soluções em tecnologia.
 
