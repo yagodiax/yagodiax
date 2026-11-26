@@ -72,6 +72,9 @@ Sistema web para gerenciamento de equipamentos de TI em ambiente escolar, com in
 <a href="https://github.com/Orizon-Solucoes/seice-manager">
   <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://seicemanager.vercel.app/">
+  <img src="https://img.shields.io/badge/Acessar%20Site-1677FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 ### Orizon Soluções
 
